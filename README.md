@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can not use the [editor on GitHub](https://github.com/ronermatt/100daysoffluency/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
